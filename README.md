@@ -5,9 +5,9 @@
 ## Hedefler
 
 - box model'i araştırın ve özelliklerini açıklamaya çalışın 
-- stiller oluşturmak için CSS kullanın 
+- stiller oluşturmak için CSS kullanın
 - CSS kullanımının tarayıcılar arası proje geliştirmekdeki önemini kavrayın
-- Responsive site oluşturabilmek için kullanın: (px, em, rem, %, and vw.vh) 
+- Responsive site oluşturabilmek için kullanın: (px, em, rem, %, and vw.vh)
 
 ## Giriş
 
@@ -47,7 +47,7 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
 - [ ] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
   - [ ] Headerde bir yuvarlak resim (image)
   - [ ] Footer ve menü elemanlarında yuvarlak köşeler
-  - [ ] Başlık(header) resmi ve hizalı text 
+  - [ ] Başlık(header) resmi ve hizalı text
   - [ ] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler 
   - [ ] Footer resmi pozisyonu
 
